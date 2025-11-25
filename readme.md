@@ -729,7 +729,7 @@ Choose from any of the [default themes](#themes)
 
 *   Customizing repo card
 
-![Customized Card](https://github-readme-stats-wwy.vercel.app/api/pin?username=wenyuanw\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Customized Card](https://github-readme-stats-wwy.vercel.app/api/pin?username=wenyuanw\&repo=github-readme-stats-wwy\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 *   Gist card
 
